@@ -1,0 +1,14 @@
+div{
+    background-color: blue;
+    padding: 20px;
+    margin: 20px;
+}
+h1{
+    color: white;
+}
+p{
+    text-align: start;
+    color: white;
+    font-weight: bold;
+}
+
